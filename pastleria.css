@@ -1,0 +1,23 @@
+
+
+body {
+  height: 100%;
+  width: 1100px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  color: #555555;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: inline-flex; /* or inline-flex */
+}
